@@ -19,8 +19,8 @@ Pentru a instala și rula aplicația, executați următoarea comandă în termin
 ```git clone https://github.com/arian222/automatizarebaterie.git
 cd automatizarebaterie
 pip install -r requirements.txt
-python automatizarebaterie.py```
-
+python automatizarebaterie.py
+```
 ## Cerințe sistem
 
 - Python 3.x
