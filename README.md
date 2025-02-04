@@ -16,10 +16,7 @@ O aplicație de monitorizare pentru laptop cu interfață grafică, creată în 
 
 Pentru a instala și rula aplicația, executați următoarea comandă în terminal:
 ```
-git clone https://github.com/arian222/automatizarebaterie.git
-cd automatizarebaterie
-pip install -r requirements.txt
-python automatizarebaterie.py
+git clone https://github.com/arian222/automatizarebaterie.git && cd automatizarebaterie && pip install -r requirements.txt && python automatizarebaterie.py 
 ```
 ## Cerințe sistem
 
