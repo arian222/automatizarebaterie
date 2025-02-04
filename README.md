@@ -16,9 +16,9 @@ O aplicație de monitorizare pentru laptop cu interfață grafică, creată în 
 
 Pentru a instala și rula aplicația, executați următoarea comandă în terminal:
 
-\```cmd
+```cmd
 git clone https://github.com/arian222/monitorizare-laptop && cd monitorizare-laptop && pip install -r requirements.txt && python main.py
-\```
+```
 
 ## Cerințe sistem
 
