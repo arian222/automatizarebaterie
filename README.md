@@ -12,11 +12,13 @@ O aplicație de monitorizare pentru laptop cu interfață grafică, creată în 
 - Interfață modernă cu temă întunecată
 - Animații personalizate
 
-## Instalare
+## Instrucțiuni de instalare și rulare
 
-1. Clonează repository-ul:git clone https://github.com/arian222/monitorizare-laptop
-2. Instalează dependențele:pip install -r requirements.txt
-3. Rulează aplicația:python automatizarebaterie.py
+Pentru a instala și rula aplicația, executați următoarea comandă în terminal:
+
+\``cmd
+git clone https://github.com/arian222/monitorizare-laptop && cd monitorizare-laptop && pip install -r requirements.txt && python main.py
+\``
 
 ## Cerințe sistem
 
