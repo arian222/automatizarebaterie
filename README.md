@@ -20,6 +20,7 @@ Pentru a instala și rula aplicația, executați următoarea comandă în termin
 cd automatizarebaterie
 pip install -r requirements.txt
 python automatizarebaterie.py```
+
 ## Cerințe sistem
 
 - Python 3.x
