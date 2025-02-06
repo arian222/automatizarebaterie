@@ -32,7 +32,8 @@ git clone https://github.com/arian222/automatizarebaterie.git && cd automatizare
 ## Autor
 
 Creat de Alecs
-
+https://wa.me/40732159658?text=Salut!%20Cum%20te%20pot%20ajuta
+Salut! Poți să-mi trimiți bani pe Revolut cu acest link: revolut.me/alecss12 
 ## Licență
 
 MIT License
